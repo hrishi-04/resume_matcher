@@ -1,0 +1,75 @@
+jobId,resumeId,similarity,domainResume,domainDesc,company name
+0,15100547,0.95530015,AUTOMOBILE,"Real Estate Sales Agent (Draw + Commission) Remote - Cleveland, OH",Tier2Tek Real Estate Jobs
+0,17857644,0.95338607,ARTS,"Real Estate Sales Agent (Draw + Commission) Remote - Cleveland, OH",Tier2Tek Real Estate Jobs
+0,11592605,0.9526316,HR,"Real Estate Sales Agent (Draw + Commission) Remote - Cleveland, OH",Tier2Tek Real Estate Jobs
+0,10876132,0.9525986,APPAREL,"Real Estate Sales Agent (Draw + Commission) Remote - Cleveland, OH",Tier2Tek Real Estate Jobs
+0,36694627,0.95208025,ADVOCATE,"Real Estate Sales Agent (Draw + Commission) Remote - Cleveland, OH",Tier2Tek Real Estate Jobs
+1,22319662,0.9629905,SALES,Full Time Teller,Landmark National Bank
+1,23951429,0.95976627,DESIGNER,Full Time Teller,Landmark National Bank
+1,12059198,0.9594462,BUSINESS-DEVELOPMENT,Full Time Teller,Landmark National Bank
+1,18368613,0.955932,SALES,Full Time Teller,Landmark National Bank
+1,20553895,0.95587826,BUSINESS-DEVELOPMENT,Full Time Teller,Landmark National Bank
+2,18368613,0.9627259,SALES,Coach,Dynamic Gymnastics
+2,24673903,0.95991784,CHEF,Coach,Dynamic Gymnastics
+2,15581242,0.9593437,SALES,Coach,Dynamic Gymnastics
+2,10182582,0.9589897,APPAREL,Coach,Dynamic Gymnastics
+2,23951429,0.9589537,DESIGNER,Coach,Dynamic Gymnastics
+3,41651672,0.9458127,BANKING,Technical Support Agent,Paligo
+3,91116867,0.9423224,CONSULTANT,Technical Support Agent,Paligo
+3,25157655,0.9409996,ARTS,Technical Support Agent,Paligo
+3,20992320,0.93812346,BANKING,Technical Support Agent,Paligo
+3,31638814,0.9380436,BUSINESS-DEVELOPMENT,Technical Support Agent,Paligo
+4,12230301,0.92277545,BUSINESS-DEVELOPMENT,Special Education Teacher 2022/2023 School Year,Soliant
+4,47996197,0.9215711,HEALTHCARE,Special Education Teacher 2022/2023 School Year,Soliant
+4,16985289,0.9183034,APPAREL,Special Education Teacher 2022/2023 School Year,Soliant
+4,18927233,0.91818166,DIGITAL-MEDIA,Special Education Teacher 2022/2023 School Year,Soliant
+13,16276121,0.96531487,DIGITAL-MEDIA,Senior Marketing Specialist,OhioHealth
+5,18827609,0.96104145,HR,Commercial Contracts Attorney,TrialSpark
+5,78016758,0.95629346,CONSULTANT,Commercial Contracts Attorney,TrialSpark
+5,33381211,0.95573497,INFORMATION-TECHNOLOGY,Commercial Contracts Attorney,TrialSpark
+5,28419927,0.9553226,BANKING,Commercial Contracts Attorney,TrialSpark
+5,21796843,0.9551927,BANKING,Commercial Contracts Attorney,TrialSpark
+6,12632728,0.53235734,BUSINESS-DEVELOPMENT,Senior Project Manager,UC San Diego Medical Center
+6,24799301,0.2226009,ACCOUNTANT,Senior Project Manager,UC San Diego Medical Center
+6,22965804,0.21634838,CONSTRUCTION,Senior Project Manager,UC San Diego Medical Center
+6,21705160,0.21309139,DESIGNER,Senior Project Manager,UC San Diego Medical Center
+6,14248724,0.21213122,ARTS,Senior Project Manager,UC San Diego Medical Center
+7,24668861,0.9361101,AVIATION,Web Designer,Robert Half
+7,27152464,0.93431956,ENGINEERING,Web Designer,Robert Half
+7,21782152,0.9339982,CONSTRUCTION,Web Designer,Robert Half
+7,52979663,0.93344384,HR,Web Designer,Robert Half
+7,22650051,0.93329036,AVIATION,Web Designer,Robert Half
+8,37521676,0.88910973,BUSINESS-DEVELOPMENT,Registered Nurse,Alio Health Services
+8,32965335,0.88708305,ADVOCATE,Registered Nurse,Alio Health Services
+8,57706851,0.8862473,BPO,Registered Nurse,Alio Health Services
+8,13264796,0.8842443,ENGINEERING,Registered Nurse,Alio Health Services
+8,27152464,0.88289547,ENGINEERING,Registered Nurse,Alio Health Services
+9,14508237,0.9573663,AUTOMOBILE,Banking Center Supervisor,Provident Bank
+9,17781039,0.95617044,SALES,Banking Center Supervisor,Provident Bank
+9,26459032,0.95606184,FITNESS,Banking Center Supervisor,Provident Bank
+9,74512244,0.9559735,FINANCE,Banking Center Supervisor,Provident Bank
+9,10876132,0.9557523,APPAREL,Banking Center Supervisor,Provident Bank
+10,17378327,0.9537048,SALES,Supply Chain Analyst,FlexForce Industrial
+10,96761538,0.95295256,FITNESS,Supply Chain Analyst,FlexForce Industrial
+10,39581020,0.9509723,SALES,Supply Chain Analyst,FlexForce Industrial
+10,24673903,0.9509615,CHEF,Supply Chain Analyst,FlexForce Industrial
+10,33578873,0.9501661,SALES,Supply Chain Analyst,FlexForce Industrial
+11,91697974,0.955919,INFORMATION-TECHNOLOGY,Art Director,BET
+11,23408537,0.9539221,HR,Art Director,BET
+11,39082090,0.9538101,HEALTHCARE,Art Director,BET
+11,23138078,0.95308375,HEALTHCARE,Art Director,BET
+11,36868767,0.95228744,HEALTHCARE,Art Director,BET
+12,12814706,0.7960833,BUSINESS-DEVELOPMENT,"Senior Accountant - Florham Park, NJ",MSI Systems Corp.
+12,13264796,0.783818,ENGINEERING,"Senior Accountant - Florham Park, NJ",MSI Systems Corp.
+12,52979663,0.7830908,HR,"Senior Accountant - Florham Park, NJ",MSI Systems Corp.
+12,79376680,0.7815871,SALES,"Senior Accountant - Florham Park, NJ",MSI Systems Corp.
+12,54227873,0.78017086,ENGINEERING,"Senior Accountant - Florham Park, NJ",MSI Systems Corp.
+13,20628003,0.9663435,DIGITAL-MEDIA,Senior Marketing Specialist,OhioHealth
+13,18368613,0.9651818,SALES,Senior Marketing Specialist,OhioHealth
+13,27497542,0.96307385,DESIGNER,Senior Marketing Specialist,OhioHealth
+13,27139412,0.96298146,BUSINESS-DEVELOPMENT,Senior Marketing Specialist,OhioHealth
+14,14064815,0.9717173,ADVOCATE,Sales And Marketing Representative,BENCO NEW YORK
+14,12938200,0.9692396,HEALTHCARE,Sales And Marketing Representative,BENCO NEW YORK
+14,37374340,0.9677381,HEALTHCARE,Sales And Marketing Representative,BENCO NEW YORK
+14,32219038,0.96733123,HEALTHCARE,Sales And Marketing Representative,BENCO NEW YORK
+14,10969918,0.9669027,FITNESS,Sales And Marketing Representative,BENCO NEW YORK
